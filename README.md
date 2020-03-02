@@ -1,38 +1,34 @@
-# Course template
+# Pain, the brain and cognition
 
-To jest repo-template wykorzystywane do robienia nowych repo z zajęciami dydaktycznymi.
+This is the website for the course _Pain, the brain and cognition_ taught in the year 2019/2020.
 
-## Aktualności
+## Contact
 
+My name is Krzysztof Basiński and I'm an assistant professor at the MUG Department of Psychology. 
 
-## Kontakt
+Reach me at krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
 
-Krzysztof Basiński
+Office hours and address - see <kbas.gumed.edu.pl>
 
-krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
+## Times and places
 
-Zakład Badań nad Jakością Życia
+Mondays, 2:00pm - 4:15pm, CMN_2/D/04-B
 
-Ul Tuwima 15, pok. 312
+The coords for the entrance are [54.365253, 18.621252](https://goo.gl/maps/xfBP2Ex3PVUxZdrt8).
 
-Gdański Uniwersytet Medyczny
+## Course notes
 
+[00 intro](00_intro.html)
+[01 pain](01.html)
 
-## Wykłady
+### Presentations topics
 
-- [01](01.html)
-
-## Syllabus
-
-[Klik](syllabus.pdf)
-
-## Literatura
-
-#### Książki
-
-
-#### Artykuły
-
-
-#### Wykłady on-line
-
+1. Central pain syndrome
+1. Complex regional pain syndrome
+1. Pain in irritable bowel syndrome
+1. Headache
+1. Cancer pain
+1. Fibromyalgia
+1. Pain during childbirth
+1. Phantom pain
+1. Congenital insensitivity to pain
