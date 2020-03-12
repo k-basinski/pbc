@@ -8,7 +8,7 @@ theme: white
 
 - E-mail: k.basinski@gumed.edu.pl
 - kbas.gumed.edu.pl
-- kbas.gumed.edu.pl/music_therapy
+- kbas.gumed.edu.pl/pbc
 
 ### Office hours
 
