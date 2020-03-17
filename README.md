@@ -29,8 +29,15 @@ The coords for the entrance are [54.365253, 18.621252](https://goo.gl/maps/xfBP2
 
 ## Course notes
 
-[00 intro](00_intro.html)
-[01 pain](01.html)
+- [00 intro](00_intro.html)
+- [01 Pain](01.html)
+- [02 Nociception & pain evaluation](02.html)
+- [03 Chronic pain](03.html) [screencast](https://youtu.be/ld9dvMaKS8U)
+- [04 Low back pain](03.html) [screencast](https://youtu.be/i_tQzkJ4i40)
+
+## Screeencasts
+
+[All screencasts here](https://www.youtube.com/playlist?list=PLQooX7p8NEM7RqUszzZsEnafo8K6DC6fa)
 
 ### Presentations topics
 
