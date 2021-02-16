@@ -10,7 +10,7 @@ My name is Krzysztof Basiński and I'm an assistant professor at the MUG Departm
 
 Reach me at krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
 
-Office hours and address - see <kbas.gumed.edu.pl>
+Office hours and address - see <http://kbas.gumed.edu.pl>.
 
 
 <!-- ## Times and places
