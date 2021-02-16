@@ -1,6 +1,8 @@
 # Pain, the brain and cognition
 
-This is the website for the course _Pain, the brain and cognition_ taught in the year 2019/2020.
+This is the website for the course _Pain, the brain and cognition_ taught in the year 2020/2021.
+
+Classes are on Tuesdays, 2:00pm - 4:15pm, on Zoom.
 
 ## Contact
 
@@ -10,16 +12,6 @@ Reach me at krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
 
 Office hours and address - see <kbas.gumed.edu.pl>
 
-## Lockdown notice
-
-Since the school is on lockdown, we are going to change the way our course proceeds. 
-
-1. Right now I’m in the process of recording videos for the stuff that we were going to talk about. There will be links on the course website to those videos, please check them out.
-2. To receive credit, you need to make a presentation in groups. Nothing’s changed here, you have topics chosen. The lockdown is in place until 25th of March, so there is a chance that our last class will take place as scheduled on March 30th. You’ll make your presentations then.
-3. If however the lockdown gets extended, I would like you to prepare your presentations and send them over to me remotely. You can do it in three ways. You can record a screencast similar to my videos and send it via email/youtube link. Else, you can prepare powerpoint slides with speaker notes attached. Finally, you can write an essay (about 2-3 pages) instead of a presentation. The choice is yours.
-4. If the lockdown is extended, the final deadline for your presentations would be April 14th. 
-5. Since you are to do this task in groups, I encourage you to work remotely (via communicators, chats, online docs etc). The best way to minimise threat is through social distancing. Don’t meet in groups unless you can avoid it. 
-6. If there are any questions, don’t hesitate to ask me.
 
 <!-- ## Times and places
 
@@ -29,17 +21,15 @@ The coords for the entrance are [54.365253, 18.621252](https://goo.gl/maps/xfBP2
 
 ## Course notes
 
-- [00 intro](00_intro.html)
-- [01 Pain](01.html)
-- [02 Nociception & pain evaluation](02.html)
-- [03 Chronic pain](03.html) [screencast](https://youtu.be/ld9dvMaKS8U)
-- [04 Low back pain](03.html) [screencast](https://youtu.be/i_tQzkJ4i40)
+*  [00 intro](00_intro.html)
+*  [01 Pain - definitions, evaluation](01.html)
+*  [02 Neuroscience](02.html)
+*  [03 Chronic pain](03.html)
+*  [04 Low back pain](04.html) 
 
-## Screeencasts
+---
 
-[All screencasts here](https://www.youtube.com/playlist?list=PLQooX7p8NEM7RqUszzZsEnafo8K6DC6fa)
-
-### Presentations topics
+# Presentations topics
 
 1. Central pain syndrome
 1. Complex regional pain syndrome
